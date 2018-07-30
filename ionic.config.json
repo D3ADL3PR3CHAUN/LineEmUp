@@ -1,0 +1,7 @@
+{
+  "name": "LineEmUp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
